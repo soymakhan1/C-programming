@@ -1,11 +1,11 @@
 #include<stdio.h>
 
 int main(){
-    char Name[]= "Mandal Rahamatulla Faruk";
+    char Name[]= "Khan Soyma Nasir";
     int Age = 18;
     char Class[]= "F.E Mechanical";
-    char DIV[]= "F";
-    char UIN[]= "251M008";
+    char DIV[]= "B";
+    char UIN[]= "261M011";
     
     printf("Name\t: %s\n", Name);
       printf("Age\t: %d\n", Age);  
